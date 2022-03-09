@@ -1,0 +1,1 @@
+# Patika_Algoritma_Veri_Yapilari
